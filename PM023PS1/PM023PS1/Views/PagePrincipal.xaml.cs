@@ -26,7 +26,7 @@ namespace PM023PS1.Views
         }
         private void listemple_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-
+            //Hola como estas
         }
 
         private async void tlbadd_Clicked(object sender, EventArgs e)
